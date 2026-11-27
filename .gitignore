@@ -47,3 +47,7 @@ checkpoints/
 # OS
 .DS_Store
 Thumbs.db
+
+# Documentation / Reference
+architecture_explanations.html
+
